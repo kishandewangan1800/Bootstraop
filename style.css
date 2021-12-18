@@ -108,7 +108,8 @@ header{
 
 .section-2 input{
     width:100px;
-    margin-left: 42.5%;
+    margin-left: auto;
+    margin-right: auto;
     color: white;
     fill: lightcoral;
     border-radius: 5px;
